@@ -1,6 +1,5 @@
 Simple Code Editor with Metaphor AI Integration
 ===================================================
-===================================================
 
 This is a simple code editor implemented in Python using the tkinter library and Metaphor AI. It allows you to write code in various programming languages and provides the following functionalities:
 
